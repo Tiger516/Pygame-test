@@ -1,6 +1,3 @@
-from cProfile import run
-from turtle import screensize
-from webbrowser import BackgroundBrowser
 import pygame
 
 background_colour = (234, 212, 252)
